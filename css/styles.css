@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(218, 37, 37);
+    font-family: TimesNewRoman;
+}
+
+.tgme_page_photo_image image {
+    src: "https://cdn1.ozone.ru/s3/multimedia-g/6058330060.jpg"
+}
+
+p {
+    font-size: 20px;
+}
+
+div{
+    font-size: 20px;
+}
+
+a:link, a:visited {
+  color: #142c4d;
+  text-decoration: underline;
+}
+
+a:link:active, a:visited:active {
+  color: #b2b2f2;
+}

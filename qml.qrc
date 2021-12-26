@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/qmldir</file>
+        <file>qml/Style.qml</file>
+        <file>qml/controls/BrowserUnit.qml</file>
+        <file>qml/controls/CustomInputDialog.qml</file>
+        <file>qml/controls/CustomMenu.qml</file>
+        <file>qml/controls/CustomTabButton.qml</file>
+        <file>qml/controls/CustomToolButton.qml</file>
+        <file>qml/controls/FileMenuBtn.qml</file>
+        <file>qml/controls/ImageSettingsBtn.qml</file>
+        <file>qml/controls/SideMenuBtn.qml</file>
+        <file>qml/controls/TopBarBtn.qml</file>
+        <file>qml/pages/BrowserPage.qml</file>
+        <file>qml/pages/HomePage.qml</file>
+        <file>qml/pages/SettingsPage.qml</file>
+    </qresource>
+</RCC>

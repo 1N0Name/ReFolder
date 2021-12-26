@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/svg/app_logo.svg</file>
+        <file>images/svg/browser/bold.svg</file>
+        <file>images/svg/browser/close.svg</file>
+        <file>images/svg/browser/font-decrease.svg</file>
+        <file>images/svg/browser/font-increase.svg</file>
+        <file>images/svg/browser/raw.svg</file>
+        <file>images/svg/browser/readingMode.svg</file>
+        <file>images/svg/fileSystem/add.svg</file>
+        <file>images/svg/fileSystem/download.svg</file>
+        <file>images/svg/fileSystem/file.svg</file>
+        <file>images/svg/fileSystem/folder.svg</file>
+        <file>images/svg/fileSystem/html.svg</file>
+        <file>images/svg/fileSystem/left-arrow.svg</file>
+        <file>images/svg/fileSystem/move.svg</file>
+        <file>images/svg/fileSystem/remove.svg</file>
+        <file>images/svg/fileSystem/rename.svg</file>
+        <file>images/svg/fileSystem/search.svg</file>
+        <file>images/svg/fileSystem/search_btn.svg</file>
+        <file>images/svg/fileSystem/sort_btn.svg</file>
+        <file>images/svg/fileSystem/url.svg</file>
+        <file>images/svg/settings/export.svg</file>
+        <file>images/svg/settings/import.svg</file>
+        <file>images/svg/sideMenu/ebook_page.svg</file>
+        <file>images/svg/sideMenu/home_page.svg</file>
+        <file>images/svg/sideMenu/menu_btn.svg</file>
+        <file>images/svg/sideMenu/settings_page.svg</file>
+        <file>images/svg/windowControl/close_btn.svg</file>
+        <file>images/svg/windowControl/maximize_btn.svg</file>
+        <file>images/svg/windowControl/maximize_restore.svg</file>
+        <file>images/svg/windowControl/minimize_btn.svg</file>
+        <file>images/svg/windowControl/resize_btn.svg</file>
+        <file>images/svg/settings/gdrive-check.svg</file>
+        <file>images/svg/settings/gdrive-warning.svg</file>
+    </qresource>
+</RCC>
